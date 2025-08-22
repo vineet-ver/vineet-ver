@@ -76,4 +76,4 @@ I build intelligent systems, design scalable software, analyze complex data, and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/vineet-verma-b80359250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_vineetthakur?igsh=MWVjeDZjZ2pzdG5iYw==) 
 ## 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=vineet-ver&color=blue&style=for-the-badge)
