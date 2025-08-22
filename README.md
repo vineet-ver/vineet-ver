@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Data+Scientist+%7C+Web+Developer+%7C+Software+Developer+%7C+Data+Analyst+%7C+Graphic+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Data+Scientist+%7C+Web+Developer+%7C+Software+Developer+%7C+Data+Analyst+%7C+Graphic+Design"/>
 </p>
 
 # Hi there, I'm Vineet 👋  
