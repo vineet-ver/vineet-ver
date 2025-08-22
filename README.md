@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Data+Scientist+%7C+Web+Developer+%7C+Software+Developer+%7C+Data+Analyst+%7C+Graphic+Designer" />
+</p>
+
 # Hi there, I'm Vineet 👋  
 
 🚀 A passionate **Data Scientist | AI Engineer | Software & Web Developer | Data Analyst | Graphic Designer**  
